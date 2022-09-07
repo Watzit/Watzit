@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Frazer Sandison and I'm a computer and electronic systems student. I'm from Scotland, living in Glasgow and currently working at Apple. You can find me on [twitter](https://www.twitter.com/user/FrazerRS), or on [LinkedIN](https://www.linkedin.com/in/fsandison/).
+My name is Frazer Sandison and I'm a Computer and Electronic Systems student. I'm from Scotland, living in Glasgow and currently working at Apple. You can find me on [twitter](https://www.twitter.com/user/FrazerRS), or on [LinkedIN](https://www.linkedin.com/in/fsandison/).
 
 ## 📝 Blog & Writing
-I write the occastional blog post on [my website](https://www.frazersandison.com). I'm also posting my blog posts on DEV.to and Medium, so you can find them there as well.
+I write the occastional blog post on [my website](https://www.frazersandison.com). I'm also posting my blog posts on [DEV.to](https://www.dev.to/ArityZero) and [Medium](https://medium.com/@arityzero), so you can find them there as well.
 
 Aside from using github for code, I also use it to maintain my Obsidian vaults for creating Dungeons and Dragons campaigns.
 
